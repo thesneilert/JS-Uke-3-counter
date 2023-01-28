@@ -17,7 +17,7 @@ button{
 }
 
 #incrementNumbers:hover {
-    background-color: #859900;
+    background-color: #459900;
 }
 
 #decrementNumbers:hover {
@@ -26,4 +26,3 @@ button{
 
 #resetNumbers:hover {
     background-color: #b58900;
-}
