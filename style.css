@@ -16,6 +16,14 @@ button{
     transition: background-color 0.100s ease, color 0.100s ease;
 }
 
-button:hover {
+#incrementNumbers:hover {
+    background-color: #859900;
+}
+
+#decrementNumbers:hover {
+    background-color: #dc322f;
+}
+
+#resetNumbers:hover {
     background-color: #b58900;
-  }
+}
